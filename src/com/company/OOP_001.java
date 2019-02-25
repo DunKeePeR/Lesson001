@@ -2,7 +2,6 @@ package com.company;
 
 public class OOP_001 {
     public static void main(String[] args) {
-    
     System.out.println(squearSum(10,20)+1);
 
 }
