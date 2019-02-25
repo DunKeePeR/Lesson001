@@ -2,7 +2,7 @@ package com.company;
 
 public class OOP_001 {
     public static void main(String[] args) {
-    // write your code here
+    // write
     System.out.println(squearSum(10,20)+1);
 
 }
